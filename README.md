@@ -1,1 +1,1 @@
-THis was the static website of gospelromont.ch
+This was the static website of gospelromont.ch
