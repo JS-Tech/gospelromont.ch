@@ -1,2 +1,1 @@
-# eebulle.romont
-subdomain romont.eebulle.ch
+THis was the static website of gospelromont.ch
